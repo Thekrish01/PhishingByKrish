@@ -152,7 +152,7 @@ banner() {
 ________________________________________________________________________
                                          ${RED}Version : ${__version__}
 
-		${RED}[${WHITE}-${RED}]${CYAN} Tool Created by seedhe maut @Jow69${WHITE}
+		${RED}[${WHITE}-${RED}]${CYAN} Tool Created by @Jow69${WHITE}
 	EOF
 }
 
